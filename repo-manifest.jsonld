@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fsspec/adlfs/commit/6362b4f2e25698cac84dafc64aa038052b82aa7b",
       "git:hexsha": "6362b4f2e25698cac84dafc64aa038052b82aa7b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2026.8.0"
     },
     {
