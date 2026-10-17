@@ -1,0 +1,11 @@
+{
+  "org": "fsspec",
+  "repo": "adlfs",
+  "versions": [
+    {
+      "commit": "6362b4f2e25698cac84dafc64aa038052b82aa7b",
+      "tag": "2026.8.0",
+      "parsed_at": "2026-10-17T03:16:32.072273+00:00"
+    }
+  ]
+}
